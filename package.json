@@ -1,0 +1,10 @@
+{
+  "name": "Skeleton-Stylus",
+  "version": "2.0.4",
+  "description": "Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-stylus": "^0.20.0",
+    "grunt-contrib-watch": "~0.6.1"
+  }
+}

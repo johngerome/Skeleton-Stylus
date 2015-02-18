@@ -1,0 +1,23 @@
+{
+  "name": "Skeleton-Stylus",
+  "version": "2.0.4",
+  "homepage": "https://github.com/johngerome/Skeleton-Stylus",
+  "authors": [
+    "John Gerome Baldonado <johngerome@gmail.com>"
+  ],
+  "description": "The (un)official Stylus Version of Skeleton (2.0.4): A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development",
+  "main": "skeleton.styl",
+  "keywords": [
+    "skeleton",
+    "stylus",
+    "styl",
+    "responsive",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
